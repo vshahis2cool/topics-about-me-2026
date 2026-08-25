@@ -1,6 +1,6 @@
 # About Me
 
-## Part 1
+## *Part 1*
 
 1. **What is your name?**
 
@@ -26,7 +26,7 @@
 
 * Pickleball
 
-## Part 2
+## *Part 2*
 
 ### Rate Yourself
 ---
@@ -49,7 +49,7 @@
 
 ##### **I am most confident about my files and folders rating. I have been working with files and folders all my life and can use then effectively.**
 
-## Part 3
+## *Part 3*
 
 ### Choose one by bolding:
 
@@ -73,5 +73,62 @@
 
 * **Cybersecurity** or Data Science
 
-## Part 4
+## *Part 4*
+
+Answer the following:
+
+**What piece of technology do you use the most?**
+
+* I use my home computer the most
+
+
+
+**What technology do you think is overrated?**
+
+* I think HP MultiJet 3D printers are overrated
+
+**Explain.**
+
+* There are lots of other printers that are capable of producing parts the same way with more open software and for a lot cheaper.
+
+**What technology do you wish existed?**
+
+* Energy Creation
+
+
+**What is something computers are currently bad at?**
+
+* Yes
+
+**What is one technology-related issue you think people your age should care about?**
+
+* AI and Survellience
+
+## *Part 5*
+
+Imagine I gave you the rest of the semester and said:
+
+Build whatever you want.
+
+You have access to computers, the internet, programming tools, and reasonable school resources.
+
+* **What would you build?**
+
+- I would make an artificial intelligence that can effectively trade stocks, options, and more.
+
+* **What it would do**
+
+* Trade stocks and options and crypto
+
+* **Who would use it**
+
+* Me
+
+* **Why you would want to build it**
+
+* To make money
+
+* **What you would need to learn in order to make it**
+
+* Pytorch
 
