@@ -26,6 +26,8 @@
 
 * Pickleball
 
+![*A picture*](IMG_0169.jpg)
+
 ## *Part 2*
 
 ### Rate Yourself
